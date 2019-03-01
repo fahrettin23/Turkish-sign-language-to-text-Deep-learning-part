@@ -1,1 +1,1 @@
-# Convert-Turkish-sign-language-to-text
+# Deep Learning of the Project
